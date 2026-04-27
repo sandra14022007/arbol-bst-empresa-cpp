@@ -47,5 +47,22 @@ Implementar un árbol binario de búsqueda en C++ para organizar empleados de un
 
 ![alt text](image-7.png)
 
+## Explicacion 
+- Raiz 
+Es el primer nodo del árbol, desde donde se origina toda la estructura.
+- Nodo Interno 
+Nodo que tiene al menos un hijo.
+- Hoja 
+Nodo que no tiene hijos.
+- Nivel 
+Indica la posición de un nodo en el árbol:
+
+Nivel 0 → Raíz
+Nivel 1 → Hijos de la raíz
+Nivel 2 → Nietos, etc.
+
+- Altura
+Es la longitud del camino más largo desde la raíz hasta una hoja.
+Representa cuántos niveles tiene el árbol. 
 ## Conclusión
 El árbol permite organizar información jerárquica y realizar búsquedas eficientes.
