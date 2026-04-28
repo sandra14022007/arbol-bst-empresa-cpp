@@ -13,39 +13,44 @@ Implementar un árbol binario de búsqueda en C++ para organizar empleados de un
 ## Capturas:
 1. Menú principal
 
-![alt text](image.png)
+![image](capturas/image_copy.png)
 
 2. Inserción de empleados
 
-![alt text](image-1.png)
-
+![image-1](capturas/image-1.png)
+![imagen](capturas/image.png)
+![imagen](capturas/image-8.png)
+![imagen](capturas/image-9.png)
+![imagen](capturas/image-10.png)
+![imagen](capturas/image-11.png)
+![imagen](capturas/image-12.png)
 3. Búsqueda
 
-![alt text](image-2.png)
+![image-2](image-2.png)
 
 4. Recorridos
 
 - Inorden 
 
-![alt text](image-3.png)
+![image-3](image-3.png)
 
 - Preorden
 
-![alt text](image-4.png)
+![image-4](image-4.png)
 
 - Postorden
 
-![alt text](image-5.png)
+![image-5](image-5.png)
 
 5. Altura y hojas
 
 - Altura
 
-![alt text](image-6.png) 
+![image-6](image-6.png) 
 
 - Hojas
 
-![alt text](image-7.png)
+![image-7](image-7.png)
 
 ## Explicacion 
 - Raiz 
